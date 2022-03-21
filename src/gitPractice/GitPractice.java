@@ -6,7 +6,7 @@ public class GitPractice {
 
 			System.out.println(" My Name is TalenTech");
 			System.out.println( "Whats your name?");
-			System.out.println(" My Name is Iqraaaaaaaaaaaaaaa!");
+			System.out.println(" My Name is Iqraaaaaaaaaaa!");
 	}
 
 }
