@@ -3,8 +3,9 @@ package gitPractice;
 public class GitPractice {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+			System.out.println(" My Name is TalenTech");
+			System.out.println( "Whats your name?");
 	}
 
 }
